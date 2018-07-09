@@ -1,0 +1,15 @@
+{
+  "name": "reddit_es6_parcel",
+  "version": "1.0.0",
+  "description": "this project is a vanilla javascript project with reddit api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "youssefsiyed"
+  },
+  "author": "youssef siyed",
+  "license": "MIT"
+}
